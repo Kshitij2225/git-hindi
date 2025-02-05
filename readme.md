@@ -25,3 +25,16 @@ cd repository-name
 # Install dependencies (if applicable)
 npm install  # For Node.js projects
 pip install -r requirements.txt  # For Python projects
+
+
+```bash
+# This is a basic Tutorail of git hub
+git  https://github.com/Kshitij2225/git-hindi.git
+
+# This is Readme.md file
+cd four
+
+# Install some repo
+npm start
+pip install flask 
+# Thank U 
