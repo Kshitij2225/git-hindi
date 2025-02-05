@@ -25,7 +25,9 @@ cd repository-name
 # Install dependencies (if applicable)
 npm install  # For Node.js projects
 pip install -r requirements.txt  # For Python projects
+```
 
+## Git Hub Tutorial
 
 ```bash
 # This is a basic Tutorail of git hub
